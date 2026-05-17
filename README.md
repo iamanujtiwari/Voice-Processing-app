@@ -32,14 +32,14 @@ This application allows users to record audio, apply voice effects, and play/dow
 
 ### 🎤 Main Interface
 
-![Main UI]<img width="1000" height="536" alt="image" src="https://github.com/user-attachments/assets/b133f52a-2f93-4a51-a19c-b132c4e9d5ea" />
+<img width="1000" height="536" alt="image" src="https://github.com/user-attachments/assets/b133f52a-2f93-4a51-a19c-b132c4e9d5ea" />
 
 
 ---
 
 ### 🔊 Audio Processing
 
-![Audio Processing]<img width="856" height="411" alt="image" src="https://github.com/user-attachments/assets/4f519ec1-d8bd-4b9a-ad99-9837b13131c3" />
+<img width="856" height="411" alt="image" src="https://github.com/user-attachments/assets/4f519ec1-d8bd-4b9a-ad99-9837b13131c3" />
 
 
 ---
@@ -48,7 +48,7 @@ This application allows users to record audio, apply voice effects, and play/dow
 ---
 ### 🎉 Final Interface
 
-![Final Interface]<img width="957" height="564" alt="image" src="https://github.com/user-attachments/assets/3159703f-524d-41de-a79f-84d9e6ebb196" />
+<img width="957" height="564" alt="image" src="https://github.com/user-attachments/assets/3159703f-524d-41de-a79f-84d9e6ebb196" />
 
 ---
 
