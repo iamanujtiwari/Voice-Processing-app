@@ -5,10 +5,8 @@ This application allows users to record audio, apply voice effects, and play/dow
 
 ---
 
----
-
 <p align="center">
-  <a href="https://voice-processing-app-zdrqpvfygd22nzvqcschgy.streamlit.app/" target="_blank">
+  <a href="https://voice-processing-app-zdrqpvfygd22nzvqcschgy.streamlit.app/">
     🚀 Open AI Voice Changer
   </a>
 </p>
