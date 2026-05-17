@@ -76,6 +76,11 @@ scipy
 ```
 
 ---
+## 📄 install commandas
+just paste in cmd ## this required python is added in path 
+```
+pip install streamlit audio-recorder-streamlit soundfile numpy scipy
+```
 
 ---
 
