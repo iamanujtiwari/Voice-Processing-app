@@ -53,7 +53,6 @@ This application allows users to record audio, apply voice effects, and play/dow
 ---
 
 
----
 ### 🎉 Final Interface
 
 <img width="957" height="564" alt="image" src="https://github.com/user-attachments/assets/3159703f-524d-41de-a79f-84d9e6ebb196" />
