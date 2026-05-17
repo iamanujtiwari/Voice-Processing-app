@@ -2,5 +2,4 @@ streamlit
 audio-recorder-streamlit
 numpy
 scipy
-tempfile
-os
+
