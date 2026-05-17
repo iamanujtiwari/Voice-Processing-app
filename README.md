@@ -5,6 +5,12 @@ This application allows users to record audio, apply voice effects, and play/dow
 
 ---
 
+---
+# 🚀 Live Demo
+
+[Click Here to Open App]https://voice-processing-app-zdrqpvfygd22nzvqcschgy.streamlit.app/
+---
+
 ## 🚀 Features
 
 - 🎙️ Record voice directly from browser
