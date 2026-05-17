@@ -77,13 +77,6 @@ scipy
 
 ---
 
-## ☁️ Deploy on Streamlit Cloud
-
-1. Push project to GitHub
-2. Open Streamlit Cloud
-3. Connect GitHub repository
-4. Deploy app
-
 ---
 
 ## 📁 Project Structure
@@ -102,7 +95,6 @@ voice-processing-app/
 ## ⚠️ Notes
 
 - Use Python 3.10 or 3.11 for best compatibility
-- Do not install built-in modules like `os` or `tempfile`
 
 ---
 
